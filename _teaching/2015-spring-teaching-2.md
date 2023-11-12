@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "DSGE与dynare实践"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "南京大学, 经济学院"
+date: 2022-09-01
+location: "中国, 南京"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+担任硕士研究生课程"高级宏观经济学"助教，负责上级部分。
 
 Heading 1
 ======
