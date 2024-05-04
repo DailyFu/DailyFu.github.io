@@ -37,6 +37,7 @@ redirect_from:
   * Python(熟练),R(熟练)
 * 掌握的软件:
   * MATLAB,R,Jupyter,Stata,SPSS,SAS,Mathematica,\LATEX
+
 研究
 ======
   <ul>{% for post in site.publications %}
