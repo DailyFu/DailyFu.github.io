@@ -9,51 +9,49 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育经历
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 青岛大学, 经济学学士,2018
+* 南京审计大学，统计学硕士,2021
+* 南京大学,理论经济学,2021.9 至今
 
-Work experience
+实践经历
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 青岛东海恒信资产管理有限公司
+  * 日内交易员（股票）
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 深圳前海千石资本管理有限公司
+  * 同导师一起与公司主管交易团队不期进行视频会议，讨论主观投资策略，以及数据挖掘方法攫取有效因子
+
+*  羽时科技
+  * 量化研究员助理(股指期货)
   
-Skills
+专业技能
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
+* DSGE 宏观经济建模
+* 应用计量分析
+  * 面板数据分析
+  * 时间序列（应用宏观）
+  * 机器学习经典算法（基本）
+* 计算机语言:
+  * Python(熟练),R(熟练)
+* 掌握的软件:
+  * MATLAB,R,Jupyter,Stata,SPSS,SAS,Mathematica,\LATEX
+研究
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+会议与演讲
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+教学
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
