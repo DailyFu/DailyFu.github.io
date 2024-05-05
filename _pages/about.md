@@ -16,8 +16,9 @@ How to edit your site's GitHub repository
 ------
 
 Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![Editing a markdown file for a talk](/images/IMG20240505.jpg)
 
-For more info
+
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+源泉混混，不舍昼夜，盈科而（后）进，放乎四海。
+                                                                                ————《孟子·离娄下》.
