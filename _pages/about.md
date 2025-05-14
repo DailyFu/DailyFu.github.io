@@ -15,9 +15,7 @@ Like many other Jekyll-based GitHub Pages templates, academicpages makes you sep
 How to edit your site's GitHub repository
 ------
 
-Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/IMG20240505.jpg)
-
 
 ------
 源泉混混，不舍昼夜，盈科而（后）进，放乎四海。
