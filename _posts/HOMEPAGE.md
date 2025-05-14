@@ -1,17 +1,6 @@
----
-title: ' 一些有用的网页（some useful links）'
-date: 2013-08-14
-permalink: /posts/2013/08/blog-post-2/
-tags:
-  - cool posts
-  - category1
-  - category2
----
+# 一些有用的网页（some useful links）
 
-根据公开资源整理
-
-1.专业平台
-======
+## 1. 专业平台
 
 - Mendeley 平台: [**Discover Mendeley Data**](https://data.mendeley.com/))
 
@@ -23,15 +12,13 @@ tags:
 
 网站介绍：[*Replication WIKI*](https://link.zhihu.com/?target=http%3A//replication.uni-goettingen.de/wiki/index.php/Main_Page) *是一个旨在推动包括经济学在内的社会科学实现可重复性研究的网站，**Replication Wiki**是新经济思想研究所（**INET**）资助的**实证经济学的复制**项目的一部分，由哥廷根乔治奥古斯特大学大学统计学主席（托马斯克尼卜教授）主持。*这一网站收录了以经济学为主的社科文献资料，并可以按期刊、软件、主题、作者、数据等多个关键词进行搜索，不仅为初学者也为研究者提供了丰富的资源。与其他网站不同，这一网站本身并不提供可重复性研究的数据，而是汇集了这些资源，并将其链接到原始网站（个人网站、期刊网站等）。比如，初学者可以按照文章所使用的软件进行检索，网站中覆盖了**32** **种统计软件，我们可以选择** **stata**，然后找到数以百计的可复制资源，并链接到原始网站。值得一提的是，该网站为一篇文章打了很多标签，以至于你可以找到使用某种特定计量方法的文章，并加以学习。网站同时告诉你这篇文章是否被重现过，以及研究的结果与原文章的差异。
 
-专题网站/论坛
-======
+## 专题网站/论坛
 
 - paper with code（CS）
 - github
 - [Economics Journals | IDEAS/RePEc](https://ideas.repec.org/i/a.html)
 
-2.学术期刊
-======
+## **2. 学术期刊**
 
 - **AEA**  [*American Economic Association*](https://www.aeaweb.org/): [**Data & Code openICPSR**](https://www.openicpsr.org/openicpsr/search/studies)   [**Content**](https://ideas.repec.org/s/aea/aecrev.html)
 - **Econometrica**: [**Data & Programs**](https://www.econometricsociety.org/publications/econometrica/browse) [**Content**](https://ideas.repec.org/s/wly/emetrp.html)
@@ -77,11 +64,9 @@ tags:
 
 
 
-3.学者主页
-======
+## 3. 学者主页
 
-微观经济 / 劳动 / 公司金融
-------
+### **微观经济 / 劳动 / 公司金融**
 
 - Angrist: [**Data and Programs**](https://link.zhihu.com/?target=http%3A//economics.mit.edu/faculty/angrist/data1)
 - Esther Duflo: [**Published Papers**](https://link.zhihu.com/?target=http%3A//economics.mit.edu/faculty/eduflo/papers)
@@ -91,8 +76,7 @@ tags:
 - Ross Levine：[**Data & Programs**](https://link.zhihu.com/?target=http%3A//faculty.haas.berkeley.edu/ross_levine/papers.htm)
 - Nathan Nunn（[https://scholar.harvard.edu/nunn/home](https://link.zhihu.com/?target=https%3A//scholar.harvard.edu/nunn/home)）
 
-宏观经济
-------
+### **宏观经济**
 
 - [**Tao Zha**](https://link.zhihu.com/?target=http%3A//www.tzha.net/) VAR，DSGE
 
@@ -134,7 +118,7 @@ tags:
 
 - [**Finn Kydland**](http://www.finnkydland.com/)
 
-- [**Gregor Boehl**](http://gregorboehl.com)
+- [**Gregor Boehl**](http://gregorboehl.com)**（很严谨的德国人）**
 
 - ==[**Eric Sims的网站**](https://www3.nd.edu/~esims1/)== **提供了关于*宏观经济学的*很好的课程材料**。
 
@@ -158,15 +142,13 @@ tags:
 
 -  
 
-计量经济学领域
-------
+**计量经济学领域**
 
 - [**Bruce  E. Hansen:**](https://www.ssc.wisc.edu/~bhansen/)
 - [**GIUSEPPE RAGUSA**](https://gragusa.org/)
 - [**Tyler Ransom**](https://tyleransom.github.io/research.html)
 
-电子书
-------
+**电子书**
 
 [**Advances in Economics and Econometrics**](https://www.cambridge.org/cn/academic/subjects/economics/economics-general-interest/advances-economics-and-econometrics-tenth-world-congress-volume-3?format=PB)
 
@@ -174,8 +156,7 @@ tags:
 
 
 
-4.宏观学者主页与研究&机构
-------
+### 4. 宏观学者主页与研究&机构
 
 | MacroScholar                                                 | MacroScholar                                                 | MacroInstitution                                             |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -195,8 +176,7 @@ tags:
 | [**Klaus Adam**](https://www.klaus-adam.com/)                | [**张龙天**](https://longtianzhang.com/)                     |                                                              |
 | [**施康** **Kang Shi**](https://kangshi99.weebly.com/) *南大长江产业经济研究院研究员* | [**石永寿**  **Yongshou**，**Shi**](https://sites.google.com/site/shouyongsite/) |                                                              |
 
-5.some interesting topic
-------
+### 5.some interesting topic
 
 - [**苗建军**](https://www.klaus-adam.com/)
 - [**王鹏飞**](https://www.klaus-adam.com/)
@@ -224,13 +204,11 @@ tags:
 - [Robert Kirkby](https://www.robertdkirkby.com/)
 - [**Thomas Winberry**](https://www.thomaswinberry.com/research/index.html) 沃顿商学院
 
-6.Mini Group
-------
+### 6.Mini Group
 
  [Hong Kong Junior Macro Group](https://sites.google.com/view/hkmacro)
 
-参考文献
-======
+##  **参考文献**
 
 [1].[**Economics Job Market Rumors**](https://www.econjobrumors.com/) 
 
