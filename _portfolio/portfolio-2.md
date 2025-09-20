@@ -7,40 +7,38 @@ collection: portfolio
 自用为主，倘能产生一些正外部性，有益于人，那便是意外之喜。如需补充，只需电邮我。琐事繁多，恐回复不及时，望见谅。
 
 ## 商业数据库
-
-- [CSMAR](https://cn.gtadata.com/) 
-- [长江经济带大数据平台](http://yreb.sozdata.com/index.html) 
+- [CnOpenData](https://www.cnopendata.com/all-data)
+- [CSMAR](https://data.csmar.com/)
+- [中国研究数据服务平台](https://www.cnrds.com/Home/Index#/)
 - [中国微观经济数据查询系统](http://microdata.sozdata.com/home.html) 
-- [EPSDATA官网](https://www.epsnet.com.cn/index.html#/Index) 
+- [EPSDATA官网](https://www.epsnet.com.cn/index.html#/Index)
+- [CCERDATA](http://new.ccerdata.cn/home)
 - [道琼斯全球财经资讯平台](http://uni.resset.com/) 
-- [CCERDATA](http://new.ccerdata.cn/home) 
+- [长江经济带大数据平台](http://yreb.sozdata.com/index.html)  
 - [国研网](http://www.drcnet.com.cn/www/int/) 
 - [国研网-世界经济与金融信息平台](http://worldeconomy.drcnet.com.cn/www/worldeconomy/) 
 - [Datago](https://datago.com.hk/) 
 - [CDMNext](https://insights.ceicdata.com/Untitled-insight/myseries) 
-- [中国研究数据服务平台](https://www.cnrds.com/Home/Index#/) 
-- [数据中心-数据中心数据申请-中国家庭金融调查与研究中心](https://chfs.swufe.edu.cn/datacenter/apply.html) 
-- [欢迎访问国家统计局微观数据用户注册申请系统](https://microdata.stats.gov.cn/) 
-- [数据资源--清华大学中国经济社会数据研究中心](http://www.tcdc.sem.tsinghua.edu.cn/article/sjzy/zylw/) 
+- [CEIC](https://insights.ceicdata.com/login)
+- Wind数据库
+- [爱文本-文本数据分析系统](https://www.aitexts.com/)
+- [CHFS-中国家庭金融调查与研究中心](https://chfs.swufe.edu.cn/datacenter/apply.html) 
+- [国家统计局微观数据用户注册申请系统](https://microdata.stats.gov.cn/) 
+- [清华大学中国经济社会数据研究中心](http://www.tcdc.sem.tsinghua.edu.cn/article/sjzy/zylw/) 
 - [中国人民大学数据开发中心](http://nrrdc.ruc.edu.cn/index.htm)
 ---------------------------
-
+- WRDS沃顿商学院研究数据平台
 - 青悦环境与ESG数据库（试用）
-- 国家统计局微观数据
 - 全球产品样本数据库
 - 全球上市公司分析库Osiris
 - Compustat标普数据库
 - CRSP证券价格研究中心
 - EPS全球统计数据分析平台
-- 国泰安金融数据库CSMAR
-- Wind数据库
-- WRDS沃顿商学院研究数据平台
-
 ---------------------------
 
 | 1. Association Unlimited                                     | [使用帮助](http://lib.nju.edu.cn/info/1013/1712.htm) |
 | ------------------------------------------------------------ | ---------------------------------------------------- |
-| 2. CCER经济金融研究数据库（用户:nju 密码:nju）               | [使用帮助](http://lib.nju.edu.cn/info/1013/1696.htm) |
+| 2. CCER经济金融研究数据库               | [使用帮助](http://lib.nju.edu.cn/info/1013/1696.htm) |
 | 3. CNKI 中国经济社会大数据研究平台                           | [使用帮助](http://lib.nju.edu.cn/info/1013/2704.htm) |
 | 4. SAGE 英国外交部解密档案：中国 1919-1980                   | [使用帮助](http://lib.nju.edu.cn/info/1013/1608.htm) |
 | 5. SpringerProtocols实验室指南数据库                         | [使用帮助](http://lib.nju.edu.cn/info/1013/1598.htm) |
@@ -54,9 +52,19 @@ collection: portfolio
 | 13. 中经网-中经网统计数据库                                  |                                                      |
 
 ------
+## 公共数据集
 
-
-
+- [Awesome Public Datasets](https://github.com/rpl-git/Awesome-Public-Datasets)
+- [国务院国有资产监督管理委员会-国资数据](http://www.sasac.gov.cn/n16582853/index.html)
+- [国家发展和改革委员会-发改数据](https://www.ndrc.gov.cn/fgsj/)
+- [中华人民共和国财政部](https://www.mof.gov.cn/index.htm)
+- [中国人民银行](http://www.pbc.gov.cn/?isapp=true)
+- [国家金融监督管理总局](https://www.nfra.gov.cn/cn/view/pages/tongjishuju/tongjishuju.html)
+- [国家统计局数据](https://data.stats.gov.cn/)
+- [Peking University Open Research Data Platform](https://opendata.pku.edu.cn/dataverse/pku/)
+- [MPTI 宏观政策“三策合一”指数](https://www.mpt-index.cn/homepage)
+- [NIFD 官方网站](http://www.nifd.cn/Activity/Future/145)
+------
 ## 微观数据
 
 ### 微观调查数据库 <https://mp.weixin.qq.com/s/oIb_j4Tgp6N7DazdgAsQnw>
